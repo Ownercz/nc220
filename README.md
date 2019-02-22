@@ -33,6 +33,7 @@ There are a bunch of audio and video sources where you can try to obtain streams
   * `vlc --started-from-file rtsp://admin:admin@[device-ip]:554/h264_vga.sdp`
 * rtmp://[device-ip]:1935/stream/video/h264
   * `ffplay rtmp://192.168.1.49:1935/stream/video/h264`
+  * rtmp://192.168.4.62:1935/stream/video/h264
   * video and audio stream
   * Works without authentication! (WTF?)
 
